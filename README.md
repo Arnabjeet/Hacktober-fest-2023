@@ -2,8 +2,9 @@
 # Hacktober-fest-2023 - No Hug, Only Debug
 
 Welcome to the **Hacktober-fest-2023 - No Hug, Only Debug** repository! This project is all about collaborating and improving code through debugging. Instead of hugs, we share knowledge and fix issues together. Let's make the digital world a better place, one bug at a time!
+![logo-hacktoberfest--logomark b91c17d2](https://github.com/Debaditya-Som/Hacktober-fest-2023/assets/121785700/e9b39efd-9473-4d51-a721-009526fc9ffb)
+![download](https://github.com/Debaditya-Som/Hacktober-fest-2023/assets/121785700/3e8403d0-5b6d-4648-ad40-b8066a8de9ab)
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 ## About Hacktoberfest
 
